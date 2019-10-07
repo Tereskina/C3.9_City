@@ -1,0 +1,16 @@
+body {
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.row {
+	margin-top: 20vh
+}
+
+.message {
+	margin-top: 20px; margin-bottom: 20px;
+}
+
+
